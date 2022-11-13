@@ -1,4 +1,4 @@
-#TweakWave
+# TweakWave
 the goal is an open source optical spectrum analyzer with enough
 performance to tune my DS-DBR fiber-optic lasers
 
